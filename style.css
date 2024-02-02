@@ -1,0 +1,230 @@
+.inbox{
+    /* background-color: antiquewhite; */
+    min-height: 600px;
+    text-align: center;
+    padding-top: 150px;
+
+}
+.sec1{
+    background-image: url(bg.avif);
+    background-size: cover;
+
+}
+.trans{
+    background-color: rgba(255, 255, 255, 0.342);
+
+}
+.sec2{
+    /* background-color:rgba(255, 192, 203, 0.589); */
+    /* background: linear-gradient(to top, pink,white); */
+    padding: 5% 0%;
+
+    /* height: 400px; */
+    /* background-image: url(pic6.avif); */
+    /* background-size: cover; */
+}
+.sec3{
+    /* background-color: antiquewhite; */
+    /* height: 400px; */
+    /* background-image: url(pic5.avif); */
+    background-size: cover;
+}
+
+.sec4{
+    /* background-color: antiquewhite; */
+    /* height: 400px; */
+    /* background-image: url(pic6.avif); */
+    background-size: cover;
+
+}
+.sec5{
+    /* background-color: antiquewhite; */
+    background: linear-gradient(to top, pink,white);
+
+    /* height: 100px; */
+    /* background-image: url(pic5.avif); */
+
+}
+.sec6{
+    /* background-color: antiquewhite; */
+    /* background: linear-gradient(to top, pink,white); */
+
+    height: 300px;
+    /* background-image: url(pic6.avif); */
+
+}
+.inbox1{
+    /* background-color: antiquewhite; */
+    min-height: 200px;
+    /* text-align: center; */
+    padding: 40px 0px;
+    /* color: white; */
+
+}
+.line1{
+    height: 2px;
+    width: 100px;
+    /* margin: auto; */
+    background-color: #ee4a77;
+}
+.inbox2{
+    /* background-color: antiquewhite; */
+    min-height: 100px;
+    /* text-align: center; */
+   /* padding-top: 40PX; */
+    /* color:blue; */
+    padding: 25% 0%;
+    font-family: sans-serif;
+
+
+}
+.v1{
+    font-family: sans-serif;
+    font-size: xx-large;
+}
+.inbox22{
+    min-height: 100px;
+    font-size: medium;
+    font-family: sans-serif;
+}
+.inbox3{
+    /* background-color:orange; */
+    min-height: 200px;
+    /* text-align: center; */
+    /* padding-top: 150px; */
+    /* color: white; */
+
+
+}
+.inbox4{
+    /* background-color: rgb(150, 92, 14); */
+    height: 200px;
+    /* text-align: center; */
+    /* padding-top: 150px; */
+    /* color: white; */
+}
+.inbox5{
+    /* background-color: violet; */
+    height: 100px;
+    /* text-align: center; */
+    padding-top: 20px;
+    /* color: white; */
+
+}
+.inbox6{
+    /* background-color: skyblue; */
+    /* min-height: 260px; */
+    text-align: center;
+    /* padding-top: 150px; */
+    margin-bottom: 35px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.432);
+    border-radius: 10px;
+    overflow: hidden;
+}
+.inbox6 img{
+    border-radius: 10px;
+    transition: .5s;
+}
+.inbox6:hover img{
+    transform: scale(1.1);
+}
+.inbox7{
+    background-color: rgb(150, 92, 14);
+    height: 300px;
+    text-align: center;
+    /* padding-top: 150px; */
+
+}
+.inbox8{
+    background-color: rgb(150, 92, 14);
+    height: 300px;
+    text-align: center;
+    /* padding-top: 150px; */
+
+}
+
+.inbox9{
+    /* background-color:blueviolet; */
+    height: 300px;
+    text-align: center;
+    /* padding-top: 150px; */
+
+}
+.inbox10{
+    /* background-color:rgb(178, 178, 238); */
+    height: 200px;
+    text-align: center;
+    margin-top: 80px;
+    /* color: white; */
+}
+.text-primary{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text-dark{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.inbox11{
+    /* background-color:blue; */
+    height: 100px;
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.inbox12{
+    /* background-color:orange; */
+    height: 200px;
+    text-align: center;
+    padding-top: 50px ;
+    margin-top: 5%;
+
+}
+.b1{
+    padding-top: 20px;
+
+}
+
+.book1{
+    color: white;
+}
+.book2{
+    color: white;
+}
+.book3{
+    color: white;
+}
+.book4{
+    color: white;
+}
+.bi-1{
+
+    border: 1px solid black;
+    border-radius: 50%;
+    /* padding-top: 10px; */
+    padding: 5px 8px;
+    background-color: black;
+    color:white;
+
+}
+.pbs{
+    background-color: #ee4a77 !important;
+}
+.f2{
+    color: #ee4a77;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+.v3{
+    color:  #ee4a77;
+}
+.btn{
+ 
+    
+}
+.fd2{
+    text-align: bold;
+}
+
+
